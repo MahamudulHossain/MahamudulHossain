@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudulhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudulhossain" alt="mahamudulhossain" /></a> </p>
+
 
 - 🔭 I’m currently working on **Laravel_School_Management**
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/mahamudul.hossainn.666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahamudul.hossainn.666" height="30" width="40" /></a>
+  
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvWbMcTwkGMmDJhJhrnhkTdlZxjxsfvMbpmCqNvNdzjRvBSTSKxSHRFRBfgqlLFVZBsV" target="blank"><img align="center" src="https://imgs.search.brave.com/bhwAJ22MDwqNtVScfIn9zGSdEjEjv5LDic4bZYhHAHI/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5uZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMTAv/Z21haWwtbG9nby5w/bmc" alt="https://imgs.search.brave.com/bhwAJ22MDwqNtVScfIn9zGSdEjEjv5LDic4bZYhHAHI/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5uZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMTAv/Z21haWwtbG9nby5w/bmc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
