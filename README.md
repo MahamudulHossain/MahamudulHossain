@@ -7,10 +7,6 @@
 
 
 
-- 🔭 I’m currently working on **Laravel_School_Management**
-
-- 🌱 I’m currently learning **Vue**
-
 - 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **md.mahamudlhossainn@gmail.com**
